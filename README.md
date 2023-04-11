@@ -12,13 +12,13 @@
 
 ###  Links
 
-[mesh routing app (web)](https://alexeinemkov.github.io/meshRouting/index.html)
+[mesh routing app (web)](https://julikas.github.io/meshRouting/index.html)
 
-[Иллюстрация - Алгоритм поиска оптимальных путей для каждой пары "источник-адресат"](https://github.com/alexeinemkov/meshRouting/blob/master/ccc.pdf)
+[Иллюстрация - Алгоритм поиска оптимальных путей для каждой пары "источник-адресат"](https://github.com/julikas/meshRouting/blob/master/ccc.pdf)
 
-[Иллюстрация - Алгоритм поиска оптимального маршрута](https://github.com/alexeinemkov/meshRouting/blob/master/bbb.pdf)
+[Иллюстрация - Алгоритм поиска оптимального маршрута](https://github.com/julikas/meshRouting/blob/master/bbb.pdf)
 
-[Иллюстрация - Алгоритм Дейкстры](https://github.com/alexeinemkov/meshRouting/blob/master/deikstra.png)
+[Иллюстрация - Алгоритм Дейкстры](https://github.com/julikas/meshRouting/blob/master/deikstra.png)
 
 ### Источники
 
